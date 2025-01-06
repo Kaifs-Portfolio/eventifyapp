@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807035683294",
+    "project_id": "eventify-simplified",
+    "storage_bucket": "eventify-simplified.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807035683294:android:1c1c340466f29ce76b1d4f",
+        "android_client_info": {
+          "package_name": "com.example.eventify_simplified"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuPRqME8LdZYrmQJS3knFUSwoc4fJ2TpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

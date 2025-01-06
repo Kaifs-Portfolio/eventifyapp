@@ -81,7 +81,7 @@ class PageOne extends StatelessWidget {
         ),
         const Align(
           alignment: Alignment(0, 0.85),
-          child: SwipeWidget(swipeText: 'Swipe to learn more →'),
+          child: SwipeWidget(swipeText: 'Swipe to learn more! →'),
         )
       ],
     );
